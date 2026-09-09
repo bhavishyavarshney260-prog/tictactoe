@@ -1,5 +1,5 @@
 // ═══════════════════════════════════════════════════
-//  TicTacToe PS — Client Game Logic (FIXED)
+//  TicTacToe BHAVISHYA — Client Game Logic (FIXED)
 // ═══════════════════════════════════════════════════
 
 (() => {
