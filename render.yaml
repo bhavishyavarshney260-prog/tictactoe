@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: tictactoe-ps
+    name: tictactoe-BHAVISHYA
     env: node
     buildCommand: npm install
     startCommand: npm start
