@@ -1,4 +1,4 @@
-# 🎮 TicTacToe PS — Online Multiplayer
+# 🎮 TicTacToe BHAVISHYA — Online Multiplayer
 
 **GAME CREATED BY BHAVISHYA**
 
