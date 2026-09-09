@@ -1,6 +1,6 @@
 # 🎮 TicTacToe PS — Online Multiplayer
 
-**GAME CREATED BY PS**
+**GAME CREATED BY BHAVISHYA**
 
 A real-time online multiplayer Tic-Tac-Toe game with built-in chat, scoreboard, match history, and premium dark gaming UI.
 
