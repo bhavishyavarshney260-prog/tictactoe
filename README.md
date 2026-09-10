@@ -139,4 +139,4 @@ Send the URL to your friend. They open it on their phone, enter a name, and join
 
 ---
 
-*GAME CREATED BY PS*
+*GAME CREATED BY bhavishya*
