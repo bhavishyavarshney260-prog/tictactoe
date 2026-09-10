@@ -1,7 +1,7 @@
 {
   "name": "tictactoe-BHAVISHYA",
   "version": "1.0.0",
-  "description": "Online Multiplayer Tic-Tac-Toe - Game Created by PS",
+  "description": "Online Multiplayer Tic-Tac-Toe - Game Created by bhavishya",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
