@@ -72,7 +72,7 @@ npm start
 ```bash
 git init
 git add .
-git commit -m "Initial commit — TicTacToe PS"
+git commit -m "Initial commit — TicTacToe bhavishya"
 git remote add origin https://github.com/YOUR_USERNAME/tictactoe-ps.git
 git push -u origin main
 ```
