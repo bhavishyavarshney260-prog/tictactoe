@@ -82,7 +82,7 @@ git push -u origin main
 2. Click **New +** → **Web Service**
 3. Connect your GitHub account and select the repo
 4. Fill in the settings:
-   - **Name:** `tictactoe-ps` (or any name)
+   - **Name:** `tictactoe-bhavishya` (or any name)
    - **Environment:** `Node`
    - **Build Command:** `npm install`
    - **Start Command:** `npm start`
